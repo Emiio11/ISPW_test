@@ -8,7 +8,7 @@ public class Main {
         System.out.println(ris);
         int sot = Sottrazione.sottrazione(7, 3);
         System.out.println(sot);
-        float divisione = Divisione.divisione(3,4);
-        System.out.println(divisione);
+        float div = Divisione.divisione(3,4);
+        System.out.println(div);
     }
 }
