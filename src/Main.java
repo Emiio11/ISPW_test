@@ -8,7 +8,7 @@ public class Main {
         int x=5;
         int y= 7;
         int somma = Util.somma(x,y);
-        system.out.printl(somma);
+        System.out.println(somma);
 
     }
 }
