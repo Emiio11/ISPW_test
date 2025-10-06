@@ -1,8 +1,10 @@
 
 
 public class Prodotto{
-    prodotto(int x,int y){
-        this.x=x*this.y;
+    private int x;
+
+    int prodotto(int a, int b){
+        this.x=a*b;
         return this.x;
     }
 }
