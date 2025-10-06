@@ -1,4 +1,3 @@
-package codice;
 
 public class Prodotto{
     public static int prodotto(int a, int b){
