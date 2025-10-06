@@ -6,5 +6,7 @@ public class Main {
         System.out.println(c);
         int ris = Somma.somma(5,7);
         System.out.println(ris);
+        int sot = Sottrazione.sottrazione(7, 3);
+        System.out.println(sot);
     }
 }
