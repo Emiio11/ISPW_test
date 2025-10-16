@@ -10,5 +10,7 @@ public class Main {
         System.out.println(sot);
         float div = Divisione.divisione(3,4);
         System.out.println(div);
+        int fat = Fattoriale.fattoriale(5);
+        System.out.println(fat);
     }
 }
